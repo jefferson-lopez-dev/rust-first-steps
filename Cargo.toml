@@ -1,0 +1,10 @@
+[package]
+name = "first_steps"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+path = "src/first_steps.rs"
+name = "first_steps"
+
+[dependencies]
